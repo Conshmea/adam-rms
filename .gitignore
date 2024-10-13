@@ -1,0 +1,17 @@
+.DS_Store
+.vagrant
+*.swp
+
+.env
+
+vendor/
+
+.idea
+
+.idea/
+
+/s3files/
+
+**/.idea
+
+docker-compose.yml
